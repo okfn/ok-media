@@ -10,7 +10,7 @@ The symbol is designed to work on several levels: it's derived from data; it's a
 
 To 'recreate' the Open Knowledge brand look you need:
 
-* [font - typeface (the letters we use in literature/Web we publish)](https://github.com/okfn/ok-media/tree/master/typography)
+* [font - typeface (the letters we use in literature/Web we publish)](https://github.com/okfn/ok-media/tree/master/typography/)
 * [brand colours](https://docs.google.com/a/okfn.org/document/d/1cpPtPEN577HPUDDfq8kP5eyeE5Pon8mnQoE4bVcNN7Y/)
 * logos in this repository
 
@@ -38,5 +38,18 @@ If you have creative ideas how to work with this, please talk to Susanne or Naom
 
 ### Using the logo so small it would not display properly?
 
-The [extra small use icons](https://github.com/okfn/ok-media/tree/master/graphics/extra-small-icons) can be used as an icon for digital applications and should never be used at a size larger than 45px. This version of the logo is perfect for favicons and app icons.  
-If you need to use the logo in a small space, there is [a version with less detail](https://github.com/okfn/ok-media/tree/master/graphics/small-logos), so it looks crisper.
+The [extra small use icons](https://github.com/okfn/ok-media/tree/master/graphics/extra-small-icons/) can be used as an icon for digital applications and should never be used at a size larger than 45px. This version of the logo is perfect for favicons and app icons.  
+If you need to use the logo in a small space, there is [a version with less detail](https://github.com/okfn/ok-media/tree/master/graphics/small-logos/), so it looks crisper.
+
+### Logos for Local Groups and Working Groups
+
+We have created 'new style' logos for all local groups (including incorporated Chapters) and working groups. If you want to update your style to the new look, there is a full set of logos for Web and print use for each local and working group.
+
+For the [working groups](https://github.com/okfn/ok-media/tree/master/graphics/working-group-logos/), we have also 'redrawn' the graphic icons used for each group, they are in the respective folders and ready for your use.
+
+**If your group has any questions, needs any amendments, or wants to check anything how you can make the 'new brand' work for your group, please contact Susanne (email: susanne.kendler@okfn.org) or someone else in the network team (like Christian or Katelyn) who are happy to have a chat.**
+
+**Please also do not change the colours of the logos, we’re aiming for consistency!  
+Thank you :).**
+
+In connection with the logo - please use Open Knowledge colours. [Guidelines here](https://docs.google.com/a/okfn.org/document/d/1cpPtPEN577HPUDDfq8kP5eyeE5Pon8mnQoE4bVcNN7Y/).
