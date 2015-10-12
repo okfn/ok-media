@@ -8,6 +8,12 @@ Our new symbol is based on the data contained in one of our key projects &mdash;
 
 The symbol is designed to work on several levels: it's derived from data; it's an 'O' so acts as shorthand for 'open'; it's a symbol of the earth that echoes our global footprint. We call it our 'data earth'.
 
+To 'recreate' the Open Knowledge brand look you need:
+
+* [font - typeface (the letters we use in literature/Web we publish)](https://github.com/okfn/ok-media/tree/master/typography)
+* [brand colours](https://docs.google.com/a/okfn.org/document/d/1cpPtPEN577HPUDDfq8kP5eyeE5Pon8mnQoE4bVcNN7Y/)
+* logos in this repository
+
 ### Wonder which logo to use where?
 
 * For **Web** and in **electronic documents**, please use **RGB** colour .png files.
@@ -32,5 +38,5 @@ If you have creative ideas how to work with this, please talk to Susanne or Naom
 
 ### Using the logo so small it would not display properly?
 
-The extra small use icons can be used as an icon for digital applications and should never be used at a size larger than 45px. This version of the logo is perfect for favicons and app icons.  
-If you need to use the logo in a small space, there is a version with less detail (in the small-logos folder), so it looks crisper.
+The [extra small use icons](https://github.com/okfn/ok-media/tree/master/graphics/extra-small-icons) can be used as an icon for digital applications and should never be used at a size larger than 45px. This version of the logo is perfect for favicons and app icons.  
+If you need to use the logo in a small space, there is [a version with less detail](https://github.com/okfn/ok-media/tree/master/graphics/small-logos), so it looks crisper.
