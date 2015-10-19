@@ -40,6 +40,21 @@ Since 2004 we have been the organisation opening up data across the world. We do
 * Knowledge sharers: We know knowledge is power so we work hard to teach people what open data is and how they can use it best. Through bespoke training courses, our School of Data, our Open Data and Data Journalism Handbooks, and a whole series of events,
 * conferences and festivals we empower people to seek the answers to questions that matter.
 
+### Open Knowledge Colours
+
+Our primary colour is [green](http://www.color-hex.com/color/7ab800) and is our first choice. [Red](http://www.color-hex.com/color/FF0000) and [blue](http://www.color-hex.com/color/00A5E0) are secondary colours that can be used for headlines, icons and highlighting important information. [Dark grey](http://www.color-hex.com/color/2D2D2D) is used for all body copy and can also be used as a background colour with white text and graphics.
+ 
+Here are the colour specifications:
+
+|           | Pantone      | RGB          | CMYK            | Web / Hex Colours                                          |
+| :-------- | :----------- | :----------- | :-------------- | :---------------:                                          |
+| Green     | PANTONE 376  | R122 G184 B0 | C59 M0 Y100 K0  | [#7AB800](http://www.color-hex.com/color/7ab800)           |
+| Red       | PANTONE 485  | R255 G0 B0   | C0 M96 Y100 K0  | [#FF0000](http://www.color-hex.com/color/FF0000)           |
+| Blue      | PANTONE 2995 | R0 G165 B224 | C83 M1 Y0 K0    | [#00A5E0](http://www.color-hex.com/color/00A5E0)           |
+| Dark Gray |              | R45 G45 B45  | C70 M64 Y63 K64 | [#2D2D2D](http://www.color-hex.com/color/2D2D2D)           |
+
+If you just need to give someone information on Open Knowledge colours without wanting to send full Brand Guidelines, you can also refer to this [Colour Specification document](https://docs.google.com/a/okfn.org/document/d/1cpPtPEN577HPUDDfq8kP5eyeE5Pon8mnQoE4bVcNN7Y/).
+
 ## Related Links
 
 * [About the Open Knowledge brand](http://wiki.okfn.org/About_the_Open_Knowledge_brand)
